@@ -1,5 +1,6 @@
 # Explore Google hacking and enumeration 
-
+### NAME:GEDIPUDI DARSHANI
+### REGISTER NUMBER:212223230062
 # AIM:
 
 To use Google for gathering information and perform enumeration of targets
