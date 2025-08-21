@@ -103,25 +103,22 @@ CACHE:
 ## OUTPUT:
 
 ### NSLOOKUP:
-
 <img width="928" height="857" alt="image" src="https://github.com/user-attachments/assets/ec07a6c4-f721-4384-93fe-eb07014e898d" />
+
 ### DIG:
-
 <img width="796" height="631" alt="image" src="https://github.com/user-attachments/assets/6cb30cf2-4716-4eb9-b605-fe3f7540a1f3" />
+
 ### HOST:
-
 <img width="765" height="636" alt="image" src="https://github.com/user-attachments/assets/25893560-1825-4bc0-8ec8-eac9d2bce5c6" />
-### DNSENUM:
 
+### DNSENUM:
 <img width="1218" height="684" alt="image" src="https://github.com/user-attachments/assets/595e0b6c-01d8-4ea4-9555-5bd478bc0dec" />
 
 
 ### FIERCE:
-
 <img width="698" height="603" alt="image" src="https://github.com/user-attachments/assets/4048f80b-b6c9-48b8-84a1-4506f64f7c4e" />
 
 ### theHarvester:
-
 <img width="835" height="645" alt="image" src="https://github.com/user-attachments/assets/b83263e2-7724-484b-b786-c2a42ff63c60" />
 
 ## Architecture Diagram 
