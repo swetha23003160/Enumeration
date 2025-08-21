@@ -56,7 +56,20 @@ Open terminal and try execute some kali linux commands
 ```
 
 # Output:
-
+SITE:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a4cdb1e-bb24-40a5-bb5e-8aef6b1b7daa" />
+INURL:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/350fed71-39ae-4bf3-95ca-db8c7f8dcba3" />
+INTITLE:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84e61164-08c8-48c2-ae91-7a8cb859fcaf" />
+FILETYPE.PDF
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eac9b016-f391-41a6-8613-8e0a85ee2928" />
+INTEXT:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b37fd071-d9eb-4828-88be-79a05c33a79c" />
+LINK:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76a66a8c-be5e-463a-a9e4-f9d4ce585e1d" />
+CACHE:
+![L-3 IMG 7](https://github.com/user-attachments/assets/e4d61750-1b1e-4994-942e-dcd78251d64e)
 
 # DNS Enumeration
 
@@ -125,6 +138,7 @@ dnsenum example.com
 ```
 
 ## Output:
+<img width="1218" height="684" alt="image" src="https://github.com/user-attachments/assets/595e0b6c-01d8-4ea4-9555-5bd478bc0dec" />
 
 
 
@@ -138,7 +152,8 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
  ## Output
-  
+  <img width="920" height="385" alt="image" src="https://github.com/user-attachments/assets/fd8013e8-c6d0-44e6-84a9-5e101b09826c" />
+
 
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -151,6 +166,7 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
+<img width="932" height="205" alt="image" src="https://github.com/user-attachments/assets/57626337-5202-4fb0-9802-248fd950024f" />
 
 
 
